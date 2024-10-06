@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+    <defs>
+        <linearGradient id="prefix__a" x1="66.352%" x2="66.352%" y1="0%" y2="136.323%">
+            <stop offset="0%" stop-color="#84C1EE"/>
+            <stop offset="100%" stop-color="#4D8DD8"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FFF" fill-opacity="0" fill-rule="nonzero" d="M0 0H80V80H0z"/>
+        <g>
+            <path fill="#CEDFEE" d="M0 63.92L68.182 63.92 68.182 58.239 0 58.239z" transform="translate(6.429 8.571)"/>
+            <path fill="#B7CDE1" d="M4.261 58.239L63.92 58.239 63.92 52.557 4.261 52.557z" transform="translate(6.429 8.571)"/>
+            <path fill="#225FA6" d="M7.102 52.557L61.079 52.557 61.079 24.148 7.102 24.148z" transform="translate(6.429 8.571)"/>
+            <path fill="url(#prefix__a)" d="M34.091 0L0 17.045 0 24.148 68.182 24.148 68.182 17.045z" transform="translate(6.429 8.571)"/>
+            <path fill="#FFF" d="M38.352 12.785c0 2.352-1.908 4.26-4.26 4.26-2.354 0-4.263-1.908-4.263-4.26 0-2.354 1.909-4.262 4.262-4.262 2.353 0 4.261 1.908 4.261 4.262M36.932 28.409v19.886H31.25V28.41h5.682zm15.625 0v19.886h-5.682V28.41h5.682zm-31.25 0v19.886h-5.682V28.41h5.682z" transform="translate(6.429 8.571)"/>
+            <path fill="#20C0C2" d="M38.352 48.295v4.262H29.83v-4.262h8.523zm15.625 0v4.262h-8.523v-4.262h8.523zm-31.25 0v4.262h-8.522v-4.262h8.522zm15.625-24.147v4.261H29.83v-4.261h8.523zm15.625 0v4.261h-8.523v-4.261h8.523zm-31.25 0v4.261h-8.522v-4.261h8.522z" transform="translate(6.429 8.571)"/>
+            <path fill="#002E6D" d="M7.102 26.989L61.079 26.989 61.079 24.148 7.102 24.148z" opacity=".4" transform="translate(6.429 8.571)"/>
+        </g>
+    </g>
+</svg>

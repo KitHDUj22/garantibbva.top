@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+    <defs>
+        <linearGradient id="prefix__a" x1="0%" x2="100%" y1="27.348%" y2="72.652%">
+            <stop offset="0%" stop-color="#9BD0F2"/>
+            <stop offset="100%" stop-color="#62A3E1"/>
+        </linearGradient>
+        <linearGradient id="prefix__b" x1="100%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#DCE8F2"/>
+            <stop offset="100%" stop-color="#B7CDE1"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FFF" fill-opacity="0" fill-rule="nonzero" d="M0 0H80V80H0z"/>
+        <g transform="translate(4 9)">
+            <path fill="#376BA8" d="M58.91 62L12.09 62 6 59 65 59z"/>
+            <rect width="72" height="7" y="52" fill="#4D8DD8" rx="3.5"/>
+            <path fill="#225FA6" d="M68 52H4V7.999C4 6.343 5.337 5 6.989 5H65.01C66.661 5 68 6.343 68 7.999V52z"/>
+            <path fill="#13315F" d="M65.011 5H6.99C5.337 5 4 6.493 4 8.333V10c0-1.84 1.337-3.333 2.989-3.333H65.01C66.661 6.667 68 8.16 68 10V8.333C68 6.493 66.661 5 65.011 5" opacity=".34"/>
+            <path fill="url(#prefix__a)" d="M10 46L62 46 62 11 10 11z"/>
+            <path fill="#70D7D9" d="M42.733 56H30.268c-.7 0-1.268-.448-1.268-1s.567-1 1.268-1h12.465c.7 0 1.267.448 1.267 1s-.567 1-1.267 1"/>
+            <g>
+                <path fill="url(#prefix__b)" d="M0 46L40 46 40 6 0 6z" transform="translate(16)"/>
+                <path fill="#2F63A0" d="M40 6H0V2.86C0 1.28 1.362 0 3.04 0h33.92C38.639 0 40 1.28 40 2.86V6z" transform="translate(16)"/>
+                <path fill="#20C0C2" d="M4.401 2c.774 0 1.401.627 1.401 1.401 0 .776-.627 1.402-1.401 1.402S3 4.176 3 3.401C3 2.627 3.627 2 4.401 2zm4.543 0c.774 0 1.4.627 1.4 1.401 0 .776-.626 1.402-1.4 1.402-.774 0-1.401-.627-1.401-1.402 0-.774.627-1.401 1.4-1.401zm4.54 0c.776 0 1.403.627 1.403 1.401 0 .776-.627 1.402-1.402 1.402-.773 0-1.4-.627-1.4-1.402 0-.774.627-1.401 1.4-1.401z" transform="translate(16)"/>
+                <path fill="#F2F2F2" d="M4 28L36 28 36 9 4 9zM4 42L26 42 26 39 4 39zM4 36L36 36 36 33 4 33z" transform="translate(16)"/>
+            </g>
+            <path fill="#20C0C2" d="M40.261 14L40.261 15.5 42.368 15.5 38.244 19.623 34.284 15.662 28 21.946 29.061 23.007 34.284 17.783 38.244 21.744 43.429 16.561 43.429 18.668 44.929 18.668 44.929 14z"/>
+        </g>
+    </g>
+</svg>
